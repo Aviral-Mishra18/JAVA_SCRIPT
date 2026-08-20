@@ -36,13 +36,13 @@
 //Datatypes in javscripts
 
 //premitive
-    //string
-    //Number
-    //Bolean
-    //undefined
-    //null
-    //symbol
-    //Bigint
+    //string ('a','hey' "Aviral is good boy")
+    //Number (1,2,3,10.5,-30)
+    //Bolean (true, false)
+    //undefined  (variable is declared but not initialized then its value will be undefined)
+    //null (nothing)
+    //symbol (unique)
+    //Bigint (-9,007,199,254,740,992,9,007,199,254)
 
     // Non primitve 
     //object
