@@ -28,6 +28,23 @@
 // console.log(a / b);
 
 
-var a = "hey, I am Sarthak Sharma"
+// var a = "hey, I am Sarthak Sharma"
 
-console.log(a)
+// console.log(a)
+
+ 
+//Datatypes in javscripts
+
+//premitive
+    //string
+    //Number
+    //Bolean
+    //undefined
+    //null
+    //symbol
+    //Bigint
+
+    // Non primitve 
+    //object
+    //Array
+    //Function
